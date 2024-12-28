@@ -29,7 +29,7 @@ Principais medidas desenvolvidas;<br>
 Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
 
 
-<br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
