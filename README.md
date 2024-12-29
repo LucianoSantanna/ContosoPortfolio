@@ -18,7 +18,7 @@ Após dialogar com a equipe global de tecnologia da informação do cliente, fui
 
 Utilizei esse data warehouse como fonte, realizando a extração, transformação e tratamento dos dados para construir um modelo de dados estruturado e consistente.
 
-<br><br>
+<br><br><br><br>
 
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/LucianoSantanna/ContosoPortfolio/blob/main/IMAGENS/Medidas.png?raw=true">
@@ -31,7 +31,7 @@ Principais medidas criadas:<br>
 Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
