@@ -14,7 +14,7 @@ Principais problemas relatados pelo requisitante:<br>
 
 ## Modelo e fonte de dados
 <img align="left" width="500" height="320" src="https://github.com/LucianoSantanna/ContosoPortfolio/blob/main/IMAGENS/Modelo%20de%20dados.png?raw=true">
-Após dialogar com a equipe global de tecnologia da informação do cliente, fui informado sobre a existência de um data warehouse que já contém todas as informações necessárias. Isso elimina a necessidade de buscar dados em outras fontes, como planilhas, arquivos de texto ou até por meio de raspagem de sistemas web.
+Após dialogar com a equipe técnica do cliente, fui informado sobre a existência de um data warehouse que já contém todas as informações necessárias. Isso elimina a necessidade de buscar dados em outras fontes, como planilhas, arquivos de texto ou até por meio de raspagem de sistemas web.
 
 Utilizei esse data warehouse como fonte, realizando a extração, transformação e tratamento dos dados para construir um modelo de dados estruturado e consistente.
 
