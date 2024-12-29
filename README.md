@@ -14,18 +14,20 @@ Principais problemas relatados pelo requisitante:<br>
 
 ## Modelo e fonte de dados
 <img align="left" width="500" height="320" src="https://github.com/LucianoSantanna/ContosoPortfolio/blob/main/IMAGENS/Modelo%20de%20dados.png?raw=true">
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
+Após dialogar com a equipe global de tecnologia da informação do cliente, fui informado sobre a existência de um data warehouse que já contém todas as informações necessárias. Isso elimina a necessidade de buscar dados em outras fontes, como planilhas, arquivos de texto ou até por meio de raspagem de sistemas web.
 
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web
+Utilizei esse data warehouse como fonte, realizando a extração, transformação e tratamento dos dados para construir um modelo de dados estruturado e consistente.
 
 <br><br><br><br>
 
 ## Medidas
-<img align="right" width="500" height="320" src="https://github.com/LucianoSantanna/ContosoPortfolio/blob/main/IMAGENS/Dashboard.png?raw=true">
-Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.<br><br>
-Principais medidas desenvolvidas;<br>
+<img align="right" width="500" height="320" src="https://github.com/LucianoSantanna/ContosoPortfolio/blob/main/IMAGENS/Medidas.png?raw=true">
+Após identificar as necessidades do cliente, compreender as regras de negócio e aplicá-las ao modelo de dados, dei início ao processo de desenvolvimento.
+<br><br>
+Principais medidas criadas:<br>
  - Custos, Receitas, Lucro, Entregas<br>
- -  Medidas de inteligência temporal para comparação de performance e resultados entre períodos distintos ou cumulativos.<br><br>
+ - Medidas de inteligência temporal para comparação de performance e resultados entre períodos distintos ou cumulativos.
+<br><br>
 Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
 
 
